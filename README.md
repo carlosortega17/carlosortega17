@@ -1,4 +1,4 @@
 ### Markdown de verificación
 
-Materia: Lenguajes de interfaz  
+Materia: Sistemas programables  
 Profesor: Rene Solis Reyes
